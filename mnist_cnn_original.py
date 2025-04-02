@@ -2,6 +2,8 @@
 Gets to 99.25% test accuracy after 12 epochs
 (there is still a lot of margin for parameter tuning).
 16 seconds per epoch on a GRID K520 GPU.
+
+뭐지 이건 또..일단 수정 기록 필요해서 끄적여봅니다
 '''
 
 from __future__ import print_function
